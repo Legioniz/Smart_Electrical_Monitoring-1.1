@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "data_source": "synthetic",
+    "days": 35,
+    "detector_version": "guardian-v2.3",
+    "logical_cpu_count": 3,
+    "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+    "processor": "not reported",
+    "python": "3.13.5",
+    "reading_count": 3356,
+    "scope": "CPU-only synthetic service microbenchmark; not a database, browser, or end-to-end benchmark",
+    "seed": 20261031,
+    "synthetic_label_types": [
+      "communication_gap",
+      "gradual_drift",
+      "night_floor_collapse",
+      "spike",
+      "sudden_sustained_drop",
+      "sustained_evening_rise"
+    ]
+  },
+  "operations": {
+    "appliance_estimate_breakdown": {
+      "max_ms": 0.074,
+      "median_ms": 0.05,
+      "min_ms": 0.027,
+      "runs": 2
+    },
+    "day_interval_payload": {
+      "max_ms": 0.341,
+      "median_ms": 0.291,
+      "min_ms": 0.24,
+      "runs": 2
+    },
+    "detector_pipeline": {
+      "max_ms": 800.996,
+      "median_ms": 476.475,
+      "min_ms": 151.954,
+      "runs": 2
+    },
+    "deterministic_narrative": {
+      "max_ms": 0.056,
+      "median_ms": 0.038,
+      "min_ms": 0.019,
+      "runs": 2
+    },
+    "synthetic_generation": {
+      "max_ms": 13.745,
+      "median_ms": 11.72,
+      "min_ms": 9.695,
+      "runs": 2
+    }
+  }
+}

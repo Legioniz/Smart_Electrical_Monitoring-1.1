@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-03T18:35:44.701914+00:00",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "project_root": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11",
+  "required_files": {
+    "launch.py": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\launch.py",
+      "sha256": "60d095496cd6bb2fd78cc16f2872af3b41e32950b178d3e99fcc8689c23c546c",
+      "exists": true
+    },
+    "README.md": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\README.md",
+      "sha256": "c2b9a004779d8b3ac524b7f525dd008021ebcb4c2e21f810c376388a49cc4a18",
+      "exists": true
+    },
+    "requirements.txt": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\requirements.txt",
+      "sha256": "a666e8efcf34bbd28e1034303f715fde7eb194ce47d3f0550ae3aba5142ac215",
+      "exists": true
+    },
+    "compose.yaml": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\compose.yaml",
+      "sha256": "bf82cfacb6b1a5b4679616221f090906c707d6d5863d4377aec1455d0e5d7726",
+      "exists": true
+    },
+    "sme/main.py": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\sme\\main.py",
+      "sha256": "fc7365f26d460f0e57907bb590ed4f50e18a9f86f11f54f56e9a23a0ba29077e",
+      "exists": true
+    },
+    "sme/paths.py": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\sme\\paths.py",
+      "sha256": "8d01635038c72c5998d27317aac37eb211cc150e5ecffb87b03e39eca442fe5d",
+      "exists": true
+    },
+    "sme/config.py": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\sme\\config.py",
+      "sha256": "8789070db7b833efb5bbeaf64fe6764da364685a83d2980e66b45287a29f675c",
+      "exists": true
+    },
+    "migrations/env.py": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\migrations\\env.py",
+      "sha256": "c8319463f216c34b7a20b326390fc8fb065b40a2b039b6cc944b02c05131f802",
+      "exists": true
+    },
+    "frontend/package.json": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\frontend\\package.json",
+      "sha256": "fff1efa5e5fbbccdc43018b2a8201c21bac559670ced7ad31d4ba49370e1472d",
+      "exists": true
+    },
+    "frontend/src/App.jsx": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\frontend\\src\\App.jsx",
+      "sha256": "00065394eead4fc54d0770f60b0214f4ca9952b9d8ab1e66c3ab28dedf2298f8",
+      "exists": true
+    },
+    "web/index.html": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\web\\index.html",
+      "sha256": "bda18107a4ebfd2fbeec1a73a9509806414e541c05b399dfc14d9c8a964f0875",
+      "exists": true
+    },
+    "web/app.js": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\web\\app.js",
+      "sha256": "3929736e04c19ed9726807c43baa1564ae09021c18b9fb3b8219064143065443",
+      "exists": true
+    },
+    "web/styles.css": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\web\\styles.css",
+      "sha256": "63a0b4c33872a4799d9008d0386651b36a3a688adf153477aecb6e25e72e19dc",
+      "exists": true
+    },
+    "database/create_users.sql": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\database\\create_users.sql",
+      "sha256": "276ab515a516e0fc31f7f33fc653ce0c5883e2e5ff172ccab3da2fafa9400313",
+      "exists": true
+    },
+    "scripts/run_verification.py": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\scripts\\run_verification.py",
+      "sha256": "780c7767640837259c208e367ffdbff4c29dcac9092408022d42943c42927d15",
+      "exists": true
+    },
+    "scripts/train_synthetic_baseline.py": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\scripts\\train_synthetic_baseline.py",
+      "sha256": "28cd7ec76eb7ede00ee2623c20c0b22c266012aa81fda9e5b604ce48119c5dab",
+      "exists": true
+    },
+    "scripts/system_diagnostics.py": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\scripts\\system_diagnostics.py",
+      "sha256": "f3062842530f8ec6c016e32cce04f8c5b3402c0e487103ad8ef151fcebd26773",
+      "exists": true
+    },
+    "scripts/path_registry.py": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\scripts\\path_registry.py",
+      "sha256": "c34de2752e53c4db5e36a61937448f575c87b41cc3615ae255beebc82f728336",
+      "exists": true
+    },
+    "scripts/configure_local_llm.py": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\scripts\\configure_local_llm.py",
+      "sha256": "c4c205ee85da734d05cb20a44ae7c02bd573c69d0be5b0c4fdb55e15e60900ac",
+      "exists": true
+    },
+    "docs/DATA_STORAGE_DECISIONS.md": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\docs\\DATA_STORAGE_DECISIONS.md",
+      "sha256": "aa054d10f0be5c35324e0f3c837c57ec468038fb6143c6565683c8955b88f5c4",
+      "exists": true
+    },
+    "learning/README.md": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\learning\\README.md",
+      "sha256": "07f4cffa3d284c76b703d51d43a447b0b6bbc2351eaa2db3347386de85f4917d",
+      "exists": true
+    }
+  },
+  "tools": {
+    "python": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\.venv\\Scripts\\python.exe",
+      "version": "3.13.3"
+    },
+    "pip": {
+      "path": "C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\.venv\\Scripts\\python.exe -m pip",
+      "version": "pip 25.0.1 from C:\\Users\\Ryan Caspillo\\Downloads\\smart-meter-explorer-v2-v11\\.venv\\Lib\\site-packages\\pip (python 3.13)"
+    },
+    "node": {
+      "path": null,
+      "version": null
+    },
+    "npm": {
+      "path": null,
+      "version": null
+    },
+    "mysql": {
+      "path": "C:\\Program Files\\MySQL\\MySQL Server 8.4\\bin\\mysql.exe",
+      "version": "C:\\Program Files\\MySQL\\MySQL Server 8.4\\bin\\mysql.exe  Ver 8.4.9 for Win64 on x86_64 (MySQL Community Server - GPL)"
+    },
+    "mysqladmin": {
+      "path": null,
+      "version": null
+    },
+    "docker": {
+      "path": null,
+      "version": null
+    },
+    "ollama": {
+      "path": null,
+      "version": null
+    }
+  },
+  "missing_required_files": [],
+  "note": "Diagnostic inventory only; source and executable paths are never rewritten from this file."
+}
