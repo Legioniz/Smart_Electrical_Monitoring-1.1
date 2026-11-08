@@ -5,7 +5,7 @@ alembic==1.18.4
 mysql-connector-python==26.10.0
 pydantic==2.13.5
 argon2-cffi==25.1.0
-python-dotenv==1.2.1
+python-dotenv==1.2.2
 scikit-learn==1.8.0
 numpy==2.4.3
 pytest==9.0.2
