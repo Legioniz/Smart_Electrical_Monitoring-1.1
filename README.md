@@ -212,3 +212,13 @@ For Windows 10/11, double-click `START-SME-WINDOWS.bat`. It detects the existing
 
 ## Project operating rules
 The active project brief and complete Smart Meter Explorer build/security/quality skill are maintained in `project-spec/SKILL.md` and `project-spec/references/`. Read the skill before making project changes. The coding gate was confirmed by the user on 2026-11-03; detailed hackathon rules and event identity remain to be documented. Security protections, local-only mode, synthetic-data labeling, human review of theft leads, and test honesty are non-negotiable.
+
+## Repository hygiene and local data
+
+- Copy `.env.example` to a local `.env` and replace its placeholders on your own machine. Never commit a real `.env`, database password, API credential, or private key.
+- The `.local/` directory is generated local diagnostic output and is intentionally excluded from version control. Its path registry can contain machine-specific folder and installed-tool locations; do not publish or share it.
+- Keep local logs, virtual environments, dependency folders, database files, and generated learning artifacts out of source commits unless a specific, reviewed fixture is intentionally required.
+- Before sharing diagnostics, review them for personal machine paths, usernames, hostnames, database details, and credentials.
+- If a real credential is ever committed, revoke or rotate it first. Deleting the current file does not remove it from earlier Git commits.
+
+The tracked `.env.example` contains placeholders only. The application remains a local demonstration using synthetic readings; do not interpret its outputs as real utility billing or meter telemetry.
