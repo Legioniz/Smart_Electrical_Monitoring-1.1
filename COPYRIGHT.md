@@ -12,7 +12,7 @@ Copyright and other intellectual-property rights in Owner Materials are reserved
 
 ## 2. No permission for unauthorized use
 
-Except for Legioniz and persons expressly authorized in advance in writing by the lawful rights holder, **no license or permission is granted to use Owner Materials for any purpose**.
+Except for Legioniz, persons expressly authorized in advance in writing by the lawful rights holder, and users exercising any platform-specific permissions GitHub grants under its Terms of Service while this repository is public, **no license or permission is granted to use Owner Materials for any purpose**.
 
 To the fullest extent permitted by applicable law, no other person or entity may, without prior written permission:
 
@@ -23,7 +23,7 @@ To the fullest extent permitted by applicable law, no other person or entity may
 - publicly display, perform, communicate, deploy, or otherwise exploit Owner Materials; or
 - remove, obscure, or misrepresent copyright or ownership notices.
 
-No permission is implied by public visibility, access to the repository, a GitHub fork, a clone, a download, or the absence of a separate license file. **Do not treat this repository as open source or as public-domain material.**
+If this repository is public, GitHub's Terms of Service allow users to view and fork it through GitHub functionality. That platform-specific permission is not a general license to exploit or redistribute Owner Materials outside the scope GitHub permits. This repository is not offered under an open-source or public-domain license.
 
 ## 3. Written authorization
 
