@@ -33,13 +33,11 @@ Any permission beyond what applicable law allows without consent must be granted
 
 This notice is subject to applicable law. It does not eliminate statutory exceptions, limitations, fair-use rights, interoperability provisions, or other uses that the rights holder cannot legally prohibit. Nothing in this notice purports to restrict a right that applicable law makes non-waivable.
 
-## 5. Third-party and separately licensed material
+## 5. License file and third-party materials
 
-## Existing licenses and third-party materials
+The root-level `LICENSE` file sets proprietary, all-rights-reserved terms for Owner Materials in the current repository version and subsequent versions distributed under that notice. It does not create rights in material Legioniz does not own or control.
 
-No root-level repository license file was identified during this check. This notice is not a claim over third-party software, dependencies, fonts, icons, photographs, music, datasets, trademarks, contributions, or other materials that Legioniz does not own or is not authorized to license. Those materials remain subject to their respective owners' terms and license notices.
-
-If a file, asset, dependency, or contribution has its own license or permission, that separate grant governs that material. This notice does not cancel third-party rights or permissions.
+Dependencies, frameworks, SDKs, libraries, fonts, icons, datasets, trademarks, contributions, and other third-party materials remain subject to their respective owners' licenses and permissions. Required third-party notices and attributions must be retained.
 
 ## 6. No transfer of rights
 
