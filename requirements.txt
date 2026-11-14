@@ -8,5 +8,5 @@ argon2-cffi==25.1.0
 python-dotenv==1.2.1
 scikit-learn==1.8.0
 numpy==2.4.3
-pytest==9.0.2
+pytest==9.0.3
 httpx==0.28.1
